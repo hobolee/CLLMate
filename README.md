@@ -35,7 +35,6 @@ The temporal distribution of the dataset:
         "cause": [cause "event_id"],
         "news_id": [the id of the news article],
         "image_path": [the meteorological raster image]
-        "
     }
 }
 ```
@@ -63,7 +62,7 @@ Impact of Model Scale:
 ## Benchmarking
 If you find CLLMate useful for your research and applications, please cite using this BibTeX:
 
-```json
+```bibtex
 @article{li2024cllmate,
   title={Cllmate: A multimodal llm for weather and climate events forecasting},
   author={Li, Haobo and Wang, Zhaowei and Wang, Jiachen and Lau, Alexis Kai Hon and Qu, Huamin},
@@ -71,4 +70,3 @@ If you find CLLMate useful for your research and applications, please cite using
   year={2024}
 }
 ```
-
